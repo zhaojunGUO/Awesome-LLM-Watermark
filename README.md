@@ -11,6 +11,8 @@ Continuously updated
 5. (ACL2023) Robust Multi-bit Natural Language Watermarking through Invariant Features
    [Code](https://github.com/bangawayoo/nlp-watermarking)
 
+6. Distillation-Resistant Watermarking for Model Protection in NLP          [Code](https://github.com/XuandongZhao/DRW)
+
 ## Natural language Processing
 1. (ICML 2023) A Watermark for Large Language Models 
    [Code](https://github.com/jwkirchenbauer/lm-watermarking)
