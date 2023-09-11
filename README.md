@@ -27,7 +27,19 @@ Continuously updated
 
    [Blog](https://crfm.stanford.edu/2023/07/30/watermarking.html)
    
-
-
+## Stable Diffusion
+1. (ICCV 2023) The Stable Signature: Rooting Watermarks in Latent Diffusion Models [Code](https://github.com/facebookresearch/stable_signature.git)
+2. (ICLR 2023) Deep Watermarks for Attributing Generative Models [Code](https://openreview.net/forum?id=43nOUI4VHUw)
+3. (ACM Multimedia 2023) DocDiff: Document Enhancement via Residual Diffusion Models [Code](https://github.com/Royalvice/DocDiff)
+4. (ACM CSS 2023) Evading Watermark based Detection of AI-Generated Content
+5. (MM 2022) Towards Blind Watermarking: Combining Invertible and Non-invertible Mechanisms [Code](https://github.com/rmpku/CIN)
+6. (~ 2023) Tree-Ring Watermarks: Fingerprints for Diffusion Images that are Invisible and Robust [Code](https://github.com/YuxinWenRick/tree-ring-watermark.git)
+7. (~ 2023) Invisible Image Watermarks Are Provably Removable Using Generative AI [Code](https://github.com/XuandongZhao/WatermarkAttacker.git)
+8. (~ 2023) A Recipe for Watermarking Diffusion Models [Code](https://github.com/yunqing-me/WatermarkDM.git)
+9. (~ 2023) On Evaluating Adversarial Robustness of Large Vision-Language Models [Code](https://github.com/yunqing-me/AttackVLM.git)
+10. (~ 2023) Watermarking Diffusion Model
+11. (~ 2023) Protecting the Intellectual Property of Diffusion Models by the Watermark Diffusion Process
+12. (~ 2023) DiffusionShield: A Watermark for Copyright Protection against Generative Diffusion Models
+13. (~ 2023) Tatouage numérique de modèles de diffusion latente
 
 
