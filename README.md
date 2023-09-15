@@ -27,7 +27,7 @@ Continuously updated
 
    [Blog](https://crfm.stanford.edu/2023/07/30/watermarking.html)
    
-## Stable Diffusion
+## Diffusion Model
 1. (ICCV 2023) The Stable Signature: Rooting Watermarks in Latent Diffusion Models [Code](https://github.com/facebookresearch/stable_signature.git)
 2. (ACM Multimedia 2023) DocDiff: Document Enhancement via Residual Diffusion Models [Code](https://github.com/Royalvice/DocDiff)
 3. (MM 2022) Towards Blind Watermarking: Combining Invertible and Non-invertible Mechanisms [Code](https://github.com/rmpku/CIN)
