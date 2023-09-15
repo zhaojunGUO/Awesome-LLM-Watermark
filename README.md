@@ -30,15 +30,14 @@ Continuously updated
 ## Stable Diffusion
 1. (ICCV 2023) The Stable Signature: Rooting Watermarks in Latent Diffusion Models [Code](https://github.com/facebookresearch/stable_signature.git)
 2. (ACM Multimedia 2023) DocDiff: Document Enhancement via Residual Diffusion Models [Code](https://github.com/Royalvice/DocDiff)
-3. (ACM CSS 2023) Evading Watermark based Detection of AI-Generated Content
-4. (MM 2022) Towards Blind Watermarking: Combining Invertible and Non-invertible Mechanisms [Code](https://github.com/rmpku/CIN)
-5. (~ 2023) Tree-Ring Watermarks: Fingerprints for Diffusion Images that are Invisible and Robust [Code](https://github.com/YuxinWenRick/tree-ring-watermark.git)
-6. (~ 2023) Invisible Image Watermarks Are Provably Removable Using Generative AI [Code](https://github.com/XuandongZhao/WatermarkAttacker.git)
-7. (~ 2023) A Recipe for Watermarking Diffusion Models [Code](https://github.com/yunqing-me/WatermarkDM.git)
-8. (~ 2023) On Evaluating Adversarial Robustness of Large Vision-Language Models [Code](https://github.com/yunqing-me/AttackVLM.git)
-9. (~ 2023) Watermarking Diffusion Model
-10. (~ 2023) Protecting the Intellectual Property of Diffusion Models by the Watermark Diffusion Process
-11. (~ 2023) DiffusionShield: A Watermark for Copyright Protection against Generative Diffusion Models
-12. (~ 2023) Tatouage numérique de modèles de diffusion latente
+3. (MM 2022) Towards Blind Watermarking: Combining Invertible and Non-invertible Mechanisms [Code](https://github.com/rmpku/CIN)
+4. (~ 2023) Tree-Ring Watermarks: Fingerprints for Diffusion Images that are Invisible and Robust [Code](https://github.com/YuxinWenRick/tree-ring-watermark.git)
+5. (~ 2023) Invisible Image Watermarks Are Provably Removable Using Generative AI [Code](https://github.com/XuandongZhao/WatermarkAttacker.git)
+6. (~ 2023) A Recipe for Watermarking Diffusion Models [Code](https://github.com/yunqing-me/WatermarkDM.git)
+7. (~ 2023) On Evaluating Adversarial Robustness of Large Vision-Language Models [Code](https://github.com/yunqing-me/AttackVLM.git)
+8. (~ 2023) Watermarking Diffusion Model
+9. (~ 2023) Protecting the Intellectual Property of Diffusion Models by the Watermark Diffusion Process
+10. (~ 2023) DiffusionShield: A Watermark for Copyright Protection against Generative Diffusion Models
+
 
 
